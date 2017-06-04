@@ -10,4 +10,9 @@ orde su orde di nemici, ed oggetti "fisici" presenti sulla mappa.
 # Unity
 Unity è un programma per lo sviluppo di videogiochi in 2d oppure in 3d, viene utilizzato c# come linguaggio di programmazione 
 per il fatto che è il più performante riguardo allo sviloppo dei videogiochi.
-
+# Istruzioni
+1) Scaricare SpaceEscape mediante il tasto download/2
+2) Aprire Unity 5.4.1f
+3) Aprire il gioco selezionando la direcotry di dov'è salvato
+# Ringraziamenti
+//
